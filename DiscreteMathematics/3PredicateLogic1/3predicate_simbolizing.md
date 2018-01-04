@@ -3,6 +3,7 @@
 ![15](https://github.com/Alex5Moon/mooc/blob/master/DiscreteMathematics/3PredicateLogic1/pic/15.JPG)
 ### 谓词逻辑符号化示例二
 ![16](https://github.com/Alex5Moon/mooc/blob/master/DiscreteMathematics/3PredicateLogic1/pic/16.JPG)
+#### 下面这两个示例来自 刘易斯-卡罗尔《爱丽丝梦游仙境》
 ### 谓词逻辑符号化示例三
 ![17](https://github.com/Alex5Moon/mooc/blob/master/DiscreteMathematics/3PredicateLogic1/pic/17.JPG)
 ### 谓词逻辑符号化示例四
