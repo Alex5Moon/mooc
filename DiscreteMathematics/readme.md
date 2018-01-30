@@ -62,6 +62,7 @@
 #### 07 [通路和回路](https://github.com/Alex5Moon/mooc/blob/master/DiscreteMathematics/6graph/7.md) 
 #### 08 [可达性与最短通路](https://github.com/Alex5Moon/mooc/blob/master/DiscreteMathematics/6graph/8.md)
 #### 09 [无向图的连通性](https://github.com/Alex5Moon/mooc/blob/master/DiscreteMathematics/6graph/9.md)
+#### 10 [有向图的连通性](https://github.com/Alex5Moon/mooc/blob/master/DiscreteMathematics/6graph/10.md)
 > 
 ### 八、
 #### 01 []() 
