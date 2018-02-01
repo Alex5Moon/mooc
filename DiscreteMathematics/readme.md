@@ -64,28 +64,20 @@
 #### 09 [无向图的连通性](https://github.com/Alex5Moon/mooc/blob/master/DiscreteMathematics/6graph/9.md)
 #### 10 [有向图的连通性](https://github.com/Alex5Moon/mooc/blob/master/DiscreteMathematics/6graph/10.md)
 > 
-### 八、
-#### 01 []() 
-#### 02 []()
-#### 03 []()
-#### 04 []() 
-#### 05 []()
-#### 06 []()
-#### 07 []() 
-#### 08 []()
-#### 09 []()
-#### 10 []() 
+### 八、树
+#### 01 [认识树](https://github.com/lu666666/mooc/blob/master/DiscreteMathematics/7tree/01.md) 
+#### 02 [无向树](https://github.com/lu666666/mooc/blob/master/DiscreteMathematics/7tree/02.md)
+#### 03 [生成树](https://github.com/lu666666/mooc/blob/master/DiscreteMathematics/7tree/03.md)
+#### 04 [最小生成树](https://github.com/lu666666/mooc/blob/master/DiscreteMathematics/7tree/04.md) 
+#### 05 [根树](https://github.com/lu666666/mooc/blob/master/DiscreteMathematics/7tree/05.md)
+#### 06 [根树的遍历](https://github.com/lu666666/mooc/blob/master/DiscreteMathematics/7tree/06.md)
+#### 07 [最优树和哈夫曼算法](https://github.com/lu666666/mooc/blob/master/DiscreteMathematics/7tree/07.md) 
+>
+### 九、特殊图
+#### 01 [欧拉图](https://github.com/lu666666/mooc/blob/master/DiscreteMathematics/8specialGraph/01.md) 
+#### 02 [哈密顿图](https://github.com/lu666666/mooc/blob/master/DiscreteMathematics/8specialGraph/02.md)
+#### 03 [偶图](https://github.com/lu666666/mooc/blob/master/DiscreteMathematics/8specialGraph/03.md)
+#### 04 [平面图](https://github.com/lu666666/mooc/blob/master/DiscreteMathematics/8specialGraph/04.md) 
 
-### 九、
-#### 01 []() 
-#### 02 []()
-#### 03 []()
-#### 04 []() 
-#### 05 []()
-#### 06 []()
-#### 07 []() 
-#### 08 []()
-#### 09 []()
-#### 10 []() 
 
 
